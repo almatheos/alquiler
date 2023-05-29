@@ -1,0 +1,6 @@
+[
+  { "nombre": "Item 1", "parametro": "valor" },
+  { "nombre": "Item 2", "parametro": "otro_valor" },
+  { "nombre": "Item 3", "parametro": "valor" },
+  // ...
+]
